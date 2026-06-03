@@ -1,5 +1,5 @@
 # git
 
 Initial repository.
-
-🏠一行文字 test
+我是一只小小鸟
+ test
